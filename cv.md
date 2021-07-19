@@ -11,4 +11,4 @@ My experience comes from some of the marathons and online trainings I have taken
 #### My projects
 Some mini-projects can be viewed at this link [JSFiddle](https://jsfiddle.net/user/bomber156/fiddles/)
 #### English level
-I passed Quick Check from EFSet and my result is somewhere between B1 Intermediate and B2 Upper Intermediate ![My results](<img src="https://ci4.googleusercontent.com/proxy/byIQVbyvQ8Hs0E25M-bsqlIKzcNSS098gEugf603kBYPkMDQT6xQ_s2EcnpPCVf3l_ireNj-ocM8LJOwH99MSWQO3-hxhO9XbSSyh5oU6RYI-PIOFhjDmIWUkA=s0-d-e1-ft#https://cdn.efset.org/efset-media-assets/percentage-scores/badges/70.png" width="200"/>)
+I passed Quick Check from EFSet and my result is somewhere between B1 Intermediate and B2 Upper Intermediate ![My results](<img src="https://ci4.googleusercontent.com/proxy/byIQVbyvQ8Hs0E25M-bsqlIKzcNSS098gEugf603kBYPkMDQT6xQ_s2EcnpPCVf3l_ireNj-ocM8LJOwH99MSWQO3-hxhO9XbSSyh5oU6RYI-PIOFhjDmIWUkA=s0-d-e1-ft#https://cdn.efset.org/efset-media-assets/percentage-scores/badges/70.png" width="200px"/>)
