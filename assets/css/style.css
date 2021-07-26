@@ -58,7 +58,7 @@ hr {
 }
 
 .header_titles {
-    padding-left: -20px;
+    padding-left: 0;
     list-style: none;
 }
 
@@ -88,15 +88,35 @@ hr {
 
 hr#footer_section {
     border: none;
-    background-color: #e5e5e5;
-    color: #e5e5e5;
+    background-color: #666666;
+    color: #666666;
     height: 2px;
-    margin: 70px 0 70px 0;
+    margin: 40px 0 30px 0;
     width: 100%;
 }
 
 footer {
-    padding: 10px 20px;
-    background: #666;
+    padding: 0 0 50px 0;
+    display: flex;
     color: white;
+    justify-content: space-around;
+    height: 50px;
+}
+
+.rs-logo {
+    width: 100%;
+    height: 100%;
+    filter: invert(100%);
+}
+
+.gh-logo {
+    height: 100%;
+}
+
+.footer_block {
+    margin: 0 0 -10px 0;
+    width: 33%;
+    text-align: center;
+    height: 100%;
+    color: #666666
 }
