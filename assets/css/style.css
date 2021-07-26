@@ -28,7 +28,34 @@ a:hover {
     float: right;
 }
 
-.title {
+.contacts_title {
     font-weight: 700;
     color: #99e7ff;
+    list-style: none;
 }
+
+.contact-info {
+    margin: auto;
+}
+
+.skills_title {
+    font-weight: 700;
+    color: #99e7ff;
+    list-style: none;
+}
+
+hr {
+    border: none;
+    background-color: #c73b10;
+    color: #c73b10;
+    height: 2px;
+    margin: auto;
+    width: 100%;
+}
+
+.header_titles {
+    padding-left: -20px;
+    list-style: none;
+}
+
+.skill_title {}
