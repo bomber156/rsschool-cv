@@ -58,4 +58,14 @@ hr {
     list-style: none;
 }
 
-.skill_title {}
+.projects_title {
+    font-weight: 700;
+    color: #99e7ff;
+    list-style: none;
+}
+
+.projects_title:hover {
+    font-weight: 700;
+    color: #c73b10;
+    list-style: none;
+}
