@@ -9,6 +9,15 @@ body {
     background: #111;
 }
 
+a {
+    color: #c3f1ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c73b10;
+}
+
 .photo {
     height: 250px;
     border: 3px solid #c3f1ff;
@@ -17,4 +26,9 @@ body {
     top: -180px;
     left: -380px;
     float: right;
+}
+
+.title {
+    font-weight: 700;
+    color: #99e7ff;
 }
